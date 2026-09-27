@@ -2,7 +2,9 @@
 
 Sick of checking MyRoadSafety for a driving test date? This does it for you.
 
-Every 7 minutes it goes to the booking page, opens the Location dropdown and checks your test centres. If any of them stops saying "No availability", it beeps until you notice. It also keeps you logged in, so you don't have to keep typing in your authenticator code.
+Every 7 minutes it goes to the booking page, opens the Location dropdown and checks your test centres. If any of them stops saying "No availability", it beeps until you notice. It also keeps you logged in, so you don't have to keep typing in your authenticator code. 
+
+**Note: RSA automatically logs you out after ~2 hours, so you must log in / authenticate manually, every two hours**
 
 ## Setup
 
